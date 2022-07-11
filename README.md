@@ -9,7 +9,7 @@ I was first introduced to the world of computers when I opened up my dad's old O
 * 🌍  I'm based in Boston MA
 * 🖥️  See my portfolio at [My Portfolio Website](http://https://smekuria2022.netlify.app/)
 * ✉️  You can contact me at [smekuria@matignon.org](mailto:smekuria@matignon.org)
-* 🚀  I'm currently working on [A Flask Application](http://https://smekuria.pythonanywhere.com/login?next=%2F)
+* 🚀  I'm currently working on [A Flask Application](https://smekuria.pythonanywhere.com/login)
 * 🧠  I'm learning Flask and FastApi
 * 🤝  I'm open to collaborating on GAN Development and Data Preprocessing
 * ⚡  I am from a Country with 13 Months pure sunshine
