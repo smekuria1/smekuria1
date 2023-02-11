@@ -9,9 +9,9 @@ I was first introduced to the world of computers when I opened up my dad's old O
 * 🌍  I'm based in Boston MA
 * 🖥️  See my portfolio at [My Portfolio Website](http://https://smekuria2022.netlify.app/)
 * ✉️  You can contact me at [smekuria@matignon.org](mailto:smekuria@matignon.org)
-* 🚀  I'm currently working on [A Typescript/MongoDB REST API](https://rest-api-prod-smek.herokuapp.com/docs/)
-* 🧠  I'm learning Flask and FastApi
-* 🤝  I'm open to collaborating on GAN Development and Data Preprocessing
+* 🚀  I'm currently working on [Kafka and REST API Integration ](https://www.conduktor.io/kafka/kafka-sdk-list/)
+* 🧠  I'm learning UI/UX and Kafka
+* 🤝  I'm open to collaborating on GAN Development/Research and Kafka related Data aggregation tools
 * ⚡  I am from a Country with 13 Months pure sunshine
 
 ### Skills
