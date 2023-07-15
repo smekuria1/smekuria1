@@ -8,7 +8,7 @@ I was first introduced to the world of computers when I opened up my dad's old O
 
 * 🌍  I'm based in Boston MA
 * 🖥️  See my portfolio at [My Portfolio Website](http://https://smekuria2022.netlify.app/)
-* ✉️  You can contact me at [smekuria@matignon.org](mailto:smekuria@matignon.org)
+* ✉️  You can contact me at [smekuria@matignon.org](mailto:solmek18@gmail.com)
 * 🚀  I'm currently working on [Kafka and REST API Integration ](https://docs.confluent.io/platform/current/kafka-rest/index.html)
 * 🧠  I'm learning Apache Kafka, Spring-Boot and Vue.js
 * 🤝  I'm open to collaborating on GAN Development/Research and Kafka related Data aggregation tools
