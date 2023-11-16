@@ -10,7 +10,7 @@ I was first introduced to the world of computers when I opened up my dad's old O
 * 🖥️  See my portfolio at [My Portfolio Website](http://https://smekuria2022.netlify.app/)
 * ✉️  You can contact me at [solmek18@gmail.com](mailto:solmek18@gmail.com)
 * 🚀  I'm currently working on [ReWrting Popular Algorithms Java Repo into Golang](https://github.com/smekuria1/GoSlow)
-* 🧠  I'm learning Apache Kafka, Spring-Boot and Vue.js
+* 🧠  I'm learning All thing GO related
 * 🤝  I'm open to collaborating on GAN Development/Research and Kafka related Data aggregation tools
 * ⚡  I am from a Country with 13 Months pure sunshine
 
