@@ -4,7 +4,7 @@ Hi 👋 My name is Solomon Mekuria
 Software Engineer, Data Analyst
 -------------------------------
 
-I was first introduced to the world of computers when I opened up my dad's old Optiplex desktop and learned about the CPU. From that time on, I started making static HTML websites for my high school back in Ethiopia and I was lucky enough to pursue higher education at UMass Dartmouth where I am learning to be a Software Engineer.
+I started making static HTML websites for my high school back in Ethiopia and I was lucky enough to pursue higher education at UMass Dartmouth where I completed my Bachelors in Computer Science, with a minor in Software Engineering. I am currently pursuing a Masters in Applied Computer Scienc with a focus on ML and Data Science at Wentworth Institute of Technology.
 
 * 🌍  I'm based in Boston MA
 * 🖥️  See my portfolio at [My Portfolio Website](http://https://smekuria2022.netlify.app/)
