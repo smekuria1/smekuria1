@@ -7,7 +7,7 @@ Software Engineer, Data Analyst
 I started making static HTML websites for my high school back in Ethiopia and I was lucky enough to pursue higher education at UMass Dartmouth where I completed my Bachelors in Computer Science, with a minor in Software Engineering. I am currently pursuing a Masters in Applied Computer Scienc with a focus on ML and Data Science at Wentworth Institute of Technology.
 
 * 🌍  I'm based in Boston MA
-* 🖥️  See my portfolio at [My Portfolio Website](http://https://smekuria2022.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio Website](https://smekuria2022.netlify.app/)
 * ✉️  You can contact me at [solmek18@gmail.com](mailto:solmek18@gmail.com)
 * 🚀  I'm currently working on [Writing the C Bytecode compiler for the popular Crafting Interpreters Book in GO](https://github.com/smekuria1/goclox)
 * 🧠  I'm learning All thing GO related
