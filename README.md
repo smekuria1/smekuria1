@@ -9,7 +9,7 @@ I started making static HTML websites for my high school back in Ethiopia and I 
 * 🌍  I'm based in Boston MA
 * 🖥️  See my portfolio at [My Portfolio Website](https://smekuria2022.netlify.app/)
 * ✉️  You can contact me at [solmek18@gmail.com](mailto:solmek18@gmail.com)
-* 🚀  I'm currently working on [Writing the C Bytecode compiler for the popular Crafting Interpreters Book in GO](https://github.com/smekuria1/goclox)
+* 🚀  I'm currently working on [Learning Kafka](https://github.com/smekuria1/cyzig)
 * 🧠  I'm learning All thing GO related
 * 🤝  I'm open to collaborating on GAN Development/Research and Kafka related Data aggregation tools
 * ⚡  I am from a Country with 13 Months pure sunshine
