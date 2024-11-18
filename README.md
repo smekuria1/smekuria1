@@ -11,7 +11,7 @@ I started making static HTML websites for my high school back in Ethiopia and I 
 * ✉️  You can contact me at [solmek18@gmail.com](mailto:solmek18@gmail.com)
 * 🚀  I'm currently working on [Learning Zig](https://github.com/smekuria1/cyzig)
 * 🧠  I'm learning All thing GO/Zig related
-* 🤝  I'm open to collaborating on GAN Development/Research and Kafka related Data aggregation tools
+* 🤝  I'm open to collaborating on Compiler/Programming Language Development/Research
 * ⚡  I am from a Country with 13 Months pure sunshine
 
 ### Skills
